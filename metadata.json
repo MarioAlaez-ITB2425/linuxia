@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MarioOS - Linux Simulator",
+  "description": "A high-fidelity Linux distribution simulator (GNOME style) featuring a functional file system, boot sequence, and a suite of 10 productivity and entertainment apps.",
+  "requestFramePermissions": []
+}
